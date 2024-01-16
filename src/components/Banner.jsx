@@ -23,9 +23,9 @@ export const Banner = () => {
         </div>
       </div>
       <div className="banner-image w-full md:w-1/2 p-3 flex justify-end">
-        <img src={require("../assets/images/pizza_banner.png")} alt="banner" className="max-h-96" />
+        <img src={require("../assets/images/pizza-png-19331.png")} alt="banner" className="max-h-96" />
       </div>
-      <div className="absolute -bottom-20 -right-32 rounded-full w-64 h-64 blur-2xl bg-gradient-to-t from-rose-500 to-purple-500"></div>
+      <div className="absolute -bottom-20 -right-32 rounded-full w-64 h-64 blur-2x"></div>
     </div>
   );
 };

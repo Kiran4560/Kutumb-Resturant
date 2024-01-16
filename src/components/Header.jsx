@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
-import foody from '../assets/images/foody.png';
+import foody from '../assets/images/logo1.png';
 import cartIcon from '../assets/icons/cart.svg';
 import { useNavigate } from 'react-router-dom';
 import Button from "./elements/Button";

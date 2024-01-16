@@ -1,6 +1,6 @@
 import clsx from 'clsx';
 import { useLocation } from 'react-router-dom';
-import aboutImage from '../assets/images/about-image.png';
+import aboutImage from '../assets/images/Resturant.jpg';
 
 /**
  *
@@ -23,13 +23,13 @@ export const About = () => {
           <h2 className="text-2xl font-medium">About Us</h2>
           <div className="h-10"></div>
           <p className="text-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt,
-            beatae! Doloribus fuga aperiam magni ipsum repellat voluptates
-            itaque error, atque, exercitationem fugit ab, modi ut voluptatum
-            sequi ad eum! Rerum! Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Minus quia suscipit deserunt, neque nemo veniam
-            adipisci deleniti culpa dolor dolores omnis, rem veritatis assumenda
-            eaque dignissimos ut, nam debitis numquam!
+          Welcome to Kutumb, where culinary artistry meets warm hospitality.
+          Located in Delhi, our menu reflects a passion for Italian, using locally sourced, premium ingredients. 
+          Experience modern elegance in our inviting space, perfect for intimate dinners or lively gatherings. 
+          Our chefs craft each dish to perfection, ensuring a memorable feast for your senses. 
+          With dedicated staff and a commitment to excellence,Kutumb invites you to savor exceptional 
+          flavors and create cherished moments in every visit.
+          Indulge in the finest culinary delights—your journey begins here.
           </p>
         </div>
         <div className=" flex items-center justify-center">
